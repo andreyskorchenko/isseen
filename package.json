@@ -1,0 +1,14 @@
+{
+  "name": "isseen",
+  "version": "1.0.0",
+  "description": "Function prototype for element.",
+  "main": "isseen.js",
+  "scripts": {},
+  "author": "Andrey Skorchenko <andreyskorchenko@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreyskorchenko/isseen.git"
+  },
+  "homepage": "https://github.com/andreyskorchenko/isseen#readme"
+}
