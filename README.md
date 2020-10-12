@@ -1,4 +1,4 @@
-# IsSeen
+# Isseen
 Function prototype for element.
 
 ## Install
