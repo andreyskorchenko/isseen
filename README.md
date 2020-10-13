@@ -8,7 +8,7 @@ npm install isseen
 
 ## Usage
 ```js
-import 'isseen';
+import 'isseen'
 
 const el = document.querySelectorAll('.animation');
 
