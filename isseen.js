@@ -7,7 +7,7 @@ Element.prototype.isSeen = function(p, v) {
     */
 
     /**
-     * @param boolean v
+     * @param bool v
      * Viewport
      * Value optional parameter by default = false
      * If true then return true while element located in viewport
@@ -23,6 +23,6 @@ Element.prototype.isSeen = function(p, v) {
     var st = Math.ceil(document.documentElement.scrollTop);
     
     return v ?
-        st < ot + eh && Math.round((100 / sh) * (sh - (ot - st))) >= p :
+        st < ot + eh && Math.round((100 / sh) * (sh - (ot - st))) >= p:
         st >= ot - sh && Math.round((100 / sh) * (sh - (ot - st))) >= p;
 };
