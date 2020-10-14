@@ -5,7 +5,8 @@
   "keywords": [
     "isseen",
     "javascript",
-    "function for element"
+    "function",
+    "element"
   ],
   "main": "isseen.js",
   "author": "Andrey Skorchenko <andreyskorchenko@gmail.com>",
