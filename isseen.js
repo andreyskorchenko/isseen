@@ -1,16 +1,16 @@
 Element.prototype.isSeen = function(p, v) {
     /**
-     * @param int p
      * Percent
      * Value optional parameter by default = 0
      * The starting point for showing the item as a percentage in the viewport
+     * @param int p
     */
 
     /**
-     * @param bool v
      * Viewport
      * Value optional parameter by default = false
      * If true then return true while element located in viewport
+     * @param bool v
     */
 
     p = ((p || p === 0) && (p >= 0 && p <= 100)) ? p : 0;
